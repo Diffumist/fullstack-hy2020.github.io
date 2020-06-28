@@ -229,7 +229,7 @@ const getAll = () => {
 更改之后，我们必须创建一个新的生产构建，并将其复制到后端存储库的根。
 
 <!-- The application can now be used from the <i>backend</i> address <http://localhost:3001>: -->
-该应用现在可以从<i>后端</i> 地址 http://localhost:3001中使用:
+该应用现在可以从<i>后端</i> 地址 http://localhost:3001 中使用:
 
 ![](../../images/3/28e.png)
 
@@ -237,7 +237,7 @@ const getAll = () => {
 我们的应用现在的工作方式与我们在第0章节中研究的[单页应用](/zh/part0/web_应用的基础设施#single-page-app) 示例应用完全一样。
 
 <!-- When we use a browser to go to the address <http://localhost:3001>, the server returns the <i>index.html</i> file from the <i>build</i> repository. Summarized contents of the file are as follows:  -->
-当我们使用浏览器访问地址 http://localhost:3001时，服务器从<i>build</i> 仓库返回<i>index. html</i> 文件。 档案的摘要内容如下:
+当我们使用浏览器访问地址 http://localhost:3001 时，服务器从<i>build</i> 仓库返回<i>index. html</i> 文件。 档案的摘要内容如下:
 
 ```html
 <head>
